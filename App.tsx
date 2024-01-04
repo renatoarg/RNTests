@@ -5,7 +5,11 @@ import Hello from "./components/Hello";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Hello name="Renato"></Hello>
+      <Hello 
+      
+      name="Renato"
+      
+      ></Hello>
     </View>
   );
 }
